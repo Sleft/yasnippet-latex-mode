@@ -1,0 +1,4 @@
+*~				# ignore editor backups
+# Ignore private snippets
+article template.yasnippet
+exe.yasnippet

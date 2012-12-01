@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: array
+# key: arr
+# expand-env: ((yas/indent-line 'fixed))
+# --
+\begin{array}{${1:cc}}$0
+${1:$
+(let ((row "") (allrows ""))
+  (dotimes (i (- (string-width yas/text) 1))
+    (setq row (concat row "& ")))
+  (dotimes (i (string-width yas/text) allrows)
+    (setq allrows (concat allrows row "\\\\\\\\\n"))))
+}\end{array}

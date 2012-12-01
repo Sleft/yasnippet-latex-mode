@@ -1,0 +1,23 @@
+* yasnippet-latex-mode
+
+A collection of LaTeX mode snippets for [[http://capitaomorte.github.com/yasnippet/][YASnippet]].
+
+** Installation
+
+Note that
+- the directory the snippets are installed into needs to be named "latex-mode", and
+- YASnippet needs to [[http://capitaomorte.github.com/yasnippet/snippet-organization.html#loading-snippets][know the path to the directory]].
+
+The following describes two ways to install. The first method requires the user to have =git= installed, the second does not.
+
+*** Git
+
+=cd= to the directory you want to install in and do
+#+begin_src bash
+clone https://github.com/Sleft/yasnippet-latex-mode.git .
+#+end_src
+to clone the git repository into that directory.
+
+*** Archive
+
+ [[https://github.com/Sleft/yasnippet-latex-mode/downloads][Download]] an archive and extract to the directory you want to install in.
