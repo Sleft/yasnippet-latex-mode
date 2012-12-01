@@ -1,6 +1,6 @@
 * yasnippet-latex-mode
 
-A collection of LaTeX mode snippets for [[http://capitaomorte.github.com/yasnippet/][YASnippet]].
+A collection of LaTeX mode snippets for [[http://capitaomorte.github.com/yasnippet/][YASnippet]]. The collection contains snippets for general writing, snippets for inserting biblatex macros that pull their key from a bibliography via RefTeX, snippets for inserting cross-references via RefTeX and snippets for inserting some logic symbols.
 
 ** Installation
 
