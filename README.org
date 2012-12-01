@@ -13,9 +13,9 @@ The following describes two ways to install. The first method requires the user 
 *** Git
 
 =cd= to the directory you want to install in and do
-#+begin_src bash
+#+BEGIN_EXAMPLE
 clone https://github.com/Sleft/yasnippet-latex-mode.git .
-#+end_src
+#+END_EXAMPLE
 to clone the git repository into that directory.
 
 *** Archive
