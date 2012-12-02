@@ -24,4 +24,4 @@ to clone the git repository into that directory.
 
 ** License
 
-See [[LICENSE]].
+See [[file:LICENSE.org][LICENSE]].
