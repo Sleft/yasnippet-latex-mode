@@ -21,3 +21,7 @@ to clone the git repository into that directory.
 *** Archive
 
  [[https://github.com/Sleft/yasnippet-latex-mode/downloads][Download]] an archive and extract to the directory you want to install in.
+
+** License
+
+See [[./LICENSE.org][LICENSE.org]].
