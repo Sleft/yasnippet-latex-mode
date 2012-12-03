@@ -24,4 +24,4 @@ to clone the git repository into that directory. You can use the same command if
 
 ** License
 
-See [[./LICENSE.org][LICENSE]].
+See [[https://github.com/Sleft/yasnippet-latex-mode/blob/master/LICENSE.org][LICENSE.org]].
