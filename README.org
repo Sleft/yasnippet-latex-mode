@@ -1,4 +1,4 @@
-* yasnippet-latex-mode
+* [[https://github.com/Sleft/yasnippet-latex-mode][yasnippet-latex-mode]]
 
 A collection of LaTeX mode snippets for [[http://capitaomorte.github.com/yasnippet/][YASnippet]]. The collection contains snippets for general writing, snippets for [[http://tex.stackexchange.com/a/39659/5701][inserting biblatex macros that pull their key from a bibliography via RefTeX]], snippets for [[http://tex.stackexchange.com/a/39653/5701][inserting cross-references via RefTeX]] and snippets for inserting some logic symbols.
 
@@ -8,7 +8,7 @@ Note that
 - the directory the snippets are installed into needs to be named "latex-mode", and
 - YASnippet needs to [[http://capitaomorte.github.com/yasnippet/snippet-organization.html#loading-snippets][know the path to the directory]].
 
-The following describes two ways to install. The first method requires the user to have =git= installed and the second does not.
+The following describes two ways to install. The first method requires that =git= is installed and the second does not.
 
 *** Git
 
@@ -16,7 +16,7 @@ The following describes two ways to install. The first method requires the user 
 #+BEGIN_EXAMPLE
 clone https://github.com/Sleft/yasnippet-latex-mode.git .
 #+END_EXAMPLE
-to clone the git repository into that directory.
+to clone the git repository into that directory. You can use the same command if you want to update your installation.
 
 *** Archive
 
@@ -24,4 +24,4 @@ to clone the git repository into that directory.
 
 ** License
 
-See [[file:LICENSE.org][LICENSE]].
+See [[./LICENSE.org][LICENSE]].
